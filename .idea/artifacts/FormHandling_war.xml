@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="FormHandling:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="FormHandling.war">
+      <element id="artifact" artifact-name="FormHandling:war exploded" />
+    </root>
+  </artifact>
+</component>
